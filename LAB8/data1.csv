@@ -1,0 +1,6 @@
+name,address,age,gender,working,literacy_status,vaccination_status,occupation
+Arjun,123 Main St,35,Male,Working,Literate,Partially Vaccinated,Engineer
+Kavya,456 Elm St,28,Female,Working,Illiterate,Fully Vaccinated,Doctor
+Priya,789 Oak St,65,Female,Non-Working,Literate,Fully Vaccinated,Retired
+Karthik,101 Pine St,45,Male,Working,Literate,Partially Vaccinated,Teacher
+Nithya,202 Maple St,22,Female,Working,Literate,Not Vaccinated,Student
